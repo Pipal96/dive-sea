@@ -1,0 +1,13 @@
+@import "../../../node_modules/normalize.css/normalize.css";
+@import "fonts.css";
+
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #F9F9F9;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
